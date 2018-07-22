@@ -36,6 +36,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="mcafeemarketcap.jgme.com.mcafeemarketcap.MainActivity" />
         </activity>
+        <activity
+            android:name=".WatchlistActivity"
+            android:label="@string/title_activity_watchlist"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
